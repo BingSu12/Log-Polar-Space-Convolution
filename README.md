@@ -1,11 +1,11 @@
-# Log-Polar Space Convolution
+# Log-Polar Space Convolution Layers
 
 1. Introduction.
 
 This package includes the python codes for implementing log-polar space convolution (LPSC) in different CNN architectures for different tasks, described in
 
-	"Log-Polar Space Convolution for Convolutional Neural Networks"
-	Bing Su and Ji-Rong Wen. 2021.
+	"Log-Polar Space Convolution Layers"
+	Bing Su and Ji-Rong Wen. NeurIPS 2022.
 
 
 2. License & disclaimer.
@@ -26,4 +26,4 @@ This package includes the python codes for implementing log-polar space convolut
 
 Please cite the following paper if you use the codes:
 
-Bing Su and Ji-Rong Wen, "Log-Polar Space Convolution for Convolutional Neural Networks," 2021.
+Bing Su and Ji-Rong Wen, "Log-Polar Space Convolution Layers", Neurips 2022.
